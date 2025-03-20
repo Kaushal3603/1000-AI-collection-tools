@@ -250,6 +250,7 @@ muse is a fast, state-of-the-art text-to-image generation and editing model.
 | [Text2SQL](http://www.text2sql.ai/) | Text2Sql.Ai - Generate SQL Queries With AI for Free!. | . | :white_check_mark: |
 | [Whatthediff](http://whatthediff.ai) | What-the-Diff – AI-Powered Code Review Assistant. | The AI-powered GitHub app that explains the changes within your pull requests in plain English. | :grey_question: |
 | [aidev.codes](https://aidev.codes/) | AI Dev Codes for You. | Create simple apps and demos just by entering specifications — a new type of AI prompt engineering. | :white_check_mark: |
+| [Fynix](https://www.fynix.ai/) | Ai Code Assistant. | Fynix combines real-time AI coding assistance with agent-powered code reviews. | :white_check_mark: |
 
 
 ### Content Generation & Seo
